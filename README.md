@@ -21,7 +21,7 @@
  Revisar si una matriz es Hermitiana, 
  Producto tensor de dos matrices/vectores 
 
-####La librería se desarrolla en Python creando una función para cada una de las operaciones y realizando los procesos respectivos dentro de cada una de ellas, por ultimo se retorna un valor resultante en cada funcion.
+#### La librería se desarrolla en Python creando una función para cada una de las operaciones y realizando los procesos respectivos dentro de cada una de ellas, por ultimo se retorna un valor resultante en cada funcion.
 
 
 _________________________________________________________________________________________________________________________________________________________________________
